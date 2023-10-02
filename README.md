@@ -18,7 +18,7 @@ Check out my learning progress in terms of study time for JavaScript and Java:
 
 Stay tuned for exciting projects showcasing my coding journey. From web applications to Java-based software, I'm always eager to apply what I've learned.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gxOTERROR&show_icons=true&theme=transparent)
+![gxOTERROR Status](https://github-readme-stats.vercel.app/api/top-langs/?username=gx100kb&show_icons=true&theme=transparent)
 
 ## Connect with Me
 
