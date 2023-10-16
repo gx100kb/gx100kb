@@ -1,4 +1,4 @@
-
+⁸
 # Welcome to gxOTERROR's Coding Journey! 👋
 
 ## About Me
@@ -25,5 +25,6 @@ Stay tuned for exciting projects showcasing my coding journey. From web applicat
 Let's connect and share our coding experiences. Feel free to reach out:
 - [Youtube](https://youtube.com/@gxOTERROR?si=wCuhBZTDVqMvcEsA)
 - [Discord](.gxoterror)
+- [Latenci](https://discord.com/invite/vTRj3mqBuF)
   
 Happy coding! 🚀
