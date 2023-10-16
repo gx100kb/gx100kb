@@ -1,4 +1,4 @@
-⁸
+
 # Welcome to gxOTERROR's Coding Journey! 👋
 
 ## About Me
