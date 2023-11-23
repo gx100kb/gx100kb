@@ -11,7 +11,7 @@ Hey there! I'm gxOTERROR, a passionate programming enthusiast with one year of e
 
 ## Learning Progress
 
-Check out my learning progress in terms of study time for JavaScript and Java:
+Check out my learning progress in terms of study time for JavaScript and Java/Kotlin:
 
 ## Projects
 
